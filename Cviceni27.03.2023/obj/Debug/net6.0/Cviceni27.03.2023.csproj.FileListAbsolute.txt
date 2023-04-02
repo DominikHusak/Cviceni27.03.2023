@@ -1,0 +1,5 @@
+C:\Škola\PV\Cviceni27.03.2023\Cviceni27.03.2023\obj\Debug\net6.0\Cviceni27.03.2023.csproj.AssemblyReference.cache
+C:\Škola\PV\Cviceni27.03.2023\Cviceni27.03.2023\obj\Debug\net6.0\Cviceni27.03.2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Škola\PV\Cviceni27.03.2023\Cviceni27.03.2023\obj\Debug\net6.0\Cviceni27.03.2023.AssemblyInfoInputs.cache
+C:\Škola\PV\Cviceni27.03.2023\Cviceni27.03.2023\obj\Debug\net6.0\Cviceni27.03.2023.AssemblyInfo.cs
+C:\Škola\PV\Cviceni27.03.2023\Cviceni27.03.2023\obj\Debug\net6.0\Cviceni27.03.2023.csproj.CoreCompileInputs.cache
